@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">یادآور</string>
+    <string name="channel_name">یادآوری‌ها</string>
+    <string name="settings">تنظیمات</string>
+    <string name="add_message">افزودن پیام</string>
+    <string name="delete">حذف</string>
+    <string name="no_messages_yet">هنوز پیامی نیست. برای افزودن روی + بزنید.</string>
+    <string name="type_your_message">پیام خود را بنویسید (فارسی یا انگلیسی)</string>
+    <string name="choose_background_for_this_message">انتخاب پس‌زمینه برای این پیام (اختیاری)</string>
+    <string name="background_preview">پیش‌نمایش پس‌زمینه</string>
+    <string name="save_message">ذخیره پیام</string>
+    <string name="update_message">بروزرسانی پیام</string>
+    <string name="message_cannot_be_empty">پیام نمی‌تواند خالی باشد</string>
+    <string name="default_background">پس‌زمینه پیش‌فرض</string>
+    <string name="default_background_hint">برای پیام‌هایی که پس‌زمینه اختصاصی ندارند استفاده می‌شود</string>
+    <string name="choose_default_background">انتخاب پس‌زمینه پیش‌فرض</string>
+    <string name="reminder_frequency">تعداد یادآوری</string>
+    <string name="reminders_per_day">%d یادآوری در روز</string>
+    <string name="save_settings">ذخیره تنظیمات</string>
+</resources>
